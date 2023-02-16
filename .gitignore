@@ -3,10 +3,14 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+node_modules/
+.vscode
+.idea
 
 # Other files and folders
 .settings/
-
+.env
+.env_local
 # Executables
 *.swf
 *.air
